@@ -1,4 +1,4 @@
-# Prep-Guide
+# Prepper's Guide
 Guides and useful knowledge to stay safe in case of war.
 
 ## Table of Contents
