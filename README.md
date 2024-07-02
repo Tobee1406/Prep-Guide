@@ -1,8 +1,21 @@
 # Prep-Guide
 Guides and useful knowledge to stay safe in case of war.
 
-# Table of Contents
-- [SAS Survival Handbook](#1-sas-survival-handbook)
+## Table of Contents
+- [Introduction](#introduction)
+- 🏠 [Shelter](#-shelter)
+  - [Where?](#where)
+  - [When?](#when)
+  - [With who?](#with-who)
+- 🥫 [Supplies](#-supplies)
+  - [Food](#food)
+  - [Water](#water)
+- 🧰 [Equipment](#-equipment)
+  - 📻 [Battery Operated Radio](#-battery-operated-radio)
+  - 🔋 [Batteries/Powerbanks](#-batteriespowerbanks)
+  - 🧩 [Entertainment](#-entertainment)
+- 📕 [Handbooks](#-handbooks)
+  - [SAS Survival Handbook](#1-sas-survival-handbook)
 
 # Introduction
 On June 15th, the Danish Emergency Management Agency (*Beredskabsstyrelsen*) published "Forberedt på kriser"[^1] (*Prepared for crises*), which gives recommendations on how to survive 3 days in case of a larger crisis or disaster.
@@ -31,13 +44,15 @@ Your family or close ones.
 - Canned food
 - Rations
 
+## Water
+
 # 🧰 Equipment
 - ## 📻 Battery Operated Radio
 <a href="https://www.biltema.dk/kontor---teknik/lyd/radio/nodradio-2000043994?gad_source=1"><img src="/img/Radio.jpg" alt="Battery Operated Radio" width="250"></a>
 
 Biltema has a combined radio [Link](https://www.biltema.dk/kontor---teknik/lyd/radio/nodradio-2000043994?gad_source=1)
 
-## 🔋 Batteries/powerbanks
+## 🔋 Batteries/Powerbanks
 
 ## 🧩 Entertainment
 To keep you from going insane or to take your mind off the bad things. 
