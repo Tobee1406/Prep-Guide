@@ -21,7 +21,9 @@ The basement can be your best option.
 # 🥫 Supplies
 
 # 🧰 Equipment
-
+- ## 📻 Battery Operated Radio
+<a href="https://www.biltema.dk/kontor---teknik/lyd/radio/nodradio-2000043994?gad_source=1"><img src="Radio.jpg" alt="Battery Operated Radio" width="250"></a>
+Biltema has a combined radio [Link](https://www.biltema.dk/kontor---teknik/lyd/radio/nodradio-2000043994?gad_source=1)
 
 # 📕 Handbooks
 ## 1# SAS Survival Handbook
