@@ -9,6 +9,9 @@ On June 15th, the Danish Emergency Management Agency (*Beredskabsstyrelsen*) pub
 
 # 🏠 Shelter
 <img src="/img/Bunker.jpg" width="500">
+<sup>iStock</sup>
+
+The basement can be your best option.  
 
 > [!CAUTION]
 > Be careful when sharing your position!
