@@ -26,6 +26,7 @@ Guides and useful knowledge to stay safe in case of war.
   - [#1 SAS Survival Handbook](#1-sas-survival-handbook)
   - [#2 How To Stay Alive](#2-how-to-stay-alive)
 - [Websites](#websites)
+  - [NUKEMAP](#nukemap)
 
 # Introduction
 On June 15th, the Danish Emergency Management Agency (*Beredskabsstyrelsen*) published "Forberedt på kriser"[^1] (*Prepared for crises*), which gives recommendations on how to survive 3 days in case of a larger crisis or disaster.
@@ -34,9 +35,11 @@ On June 15th, the Danish Emergency Management Agency (*Beredskabsstyrelsen*) pub
 <img src="/img/Bunker.jpg" width="500">
 <sup>iStock</sup>
 
-This is the most crucial step as you will be spending a lot of time here.
+This is the most crucial step as you will spend much time here.
 
 ## Where?
+Stay out of major cities. They will be targeted.
+
 The basement can be your best option.  
 
 ## When?
@@ -122,9 +125,14 @@ This book has a more basic guide on how to survive in many different scenarios.
 
 # Websites
 ## NUKEMAP
-<img src="/img/Nukemap.png" width="250">
+<img src="/img/Nukemap.png" width="500">
 
 [Link](https://nuclearsecrecy.com/nukemap/)
+
+## MISSILEMAP
+<img src="/img/Missilemap.jpg" width="500">
+
+[Link](https://nuclearsecrecy.com/missilemap/)
 
 [^1]: [Forberedt på kriser](https://www.brs.dk/da/forberedt/)
 [^2]: [SAS Survival Handbook](https://annas-archive.gs/md5/073a3d2550a0027a48b8125fc93d6908)
