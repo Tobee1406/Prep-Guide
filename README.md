@@ -27,6 +27,7 @@ Guides and useful knowledge to stay safe in case of war.
   - [#2 How To Stay Alive](#2-how-to-stay-alive)
 - [Websites](#websites)
   - [NUKEMAP](#nukemap)
+  - [MISSILEMAP](#missilemap)
 
 # Introduction
 On June 15th, the Danish Emergency Management Agency (*Beredskabsstyrelsen*) published "Forberedt på kriser"[^1] (*Prepared for crises*), which gives recommendations on how to survive 3 days in case of a larger crisis or disaster.
