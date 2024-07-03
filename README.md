@@ -20,6 +20,7 @@ Guides and useful knowledge to stay safe in case of war.
   - 🛏️ [Blankets](#%EF%B8%8F-blankets)
   - 🩹 [First Aid Kit](#-first-aid-kit)
   - 🪪 [Important Document](#-important-documents)
+  - 🪛 [Multitool](#-multitool)
   - [Nice to have:](#nice-to-have)
   - 😷 [Gas Mask](#-gas-mask)
   - 🔌 [Generator](#-generator)
@@ -104,8 +105,20 @@ To keep you from going insane or to take your mind off the bad things.
 ## 🛏️ Blankets
 
 ## 🩹 First Aid Kit
+You need to be able to treat cuts and bruises or injuries as you won't be able to go to the hospital.
+- Antibiotics
+- Antiseptics
+- Bandages
+- Pain Relievers
+- Scissor
 
 ## 🪪 Important Documents
+- Passport
+- ID
+- Birth Certificates
+- Insurance Forms
+
+## 🪛 Multitool
 
 ## Nice to have:
 
