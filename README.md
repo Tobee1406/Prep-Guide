@@ -1,4 +1,4 @@
-# Prepper's Guide
+# A Prepper's Guide
 Guides and useful knowledge to stay safe in case of war.
 
 ## Table of Contents
@@ -41,10 +41,19 @@ Your family or close ones.
 
 # 🥫 Supplies
 ## Food
-- Canned food
-- Rations
+Assuming the food is stored correctly:
+- Canned food (1-2 years)
+- Rations (5-30 years)
+- Honey (forever)
+- Biscuits/Crackers (6-9 months)
+- Spices (2-4 years)
+- Nuts (6-12 months)
+
+Since you can't have a varied dired, I would suggest as a good addition to your meal to eat vitamins, such as **Vitamin D**, **Calcium**, **Magnessium**, etc... Especially when you don't get your natural vitamins from the sun.
 
 ## Water
+Water needs to be stored correctly.
+In the event of an atomic or chemical bomb, the drinking water from the faucet won't be reliable, as it would be contaminated, and the negative effects would pose a higher risk if consumed.
 
 # 🧰 Equipment
 - ## 📻 Battery Operated Radio
