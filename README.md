@@ -78,6 +78,8 @@ Since you can't have a varied dired, I would suggest as a good addition to your 
 ## Water
 Water needs to be stored correctly.
 In the event of an atomic or chemical bomb, the drinking water from the faucet won't be reliable, as it would be contaminated, and the negative effects would pose a higher risk if consumed.
+> [!NOTE]
+> Remember enough water for your pets.
 
 # 🧰 Equipment
 You need to assume that you can't rely on electricity, as it would be one of the key targeted infrastructures.
