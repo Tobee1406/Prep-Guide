@@ -1,5 +1,5 @@
 # A Prepper's Guide
-Guides and useful knowledge to stay safe in case of war.
+Guides and useful knowledge to stay safe in case of crisis or war.
 
 ## Table of Contents
 - [Introduction](#introduction)
