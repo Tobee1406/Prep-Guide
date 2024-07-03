@@ -18,6 +18,8 @@ Guides and useful knowledge to stay safe in case of war.
   - 🔥 [Gas Burner](#-gas-burner)
   - 🕯️ [Matches](#%EF%B8%8F-matches)
   - 🛏️ [Blankets](#%EF%B8%8F-blankets)
+  - 🩹 [First Aid Kit](#-first-aid-kit)
+  - 🪪 [Important Document](#-important-documents)
   - [Nice to have:](#nice-to-have)
   - 😷 [Gas Mask](#-gas-mask)
   - 🔌 [Generator](#-generator)
@@ -100,6 +102,10 @@ To keep you from going insane or to take your mind off the bad things.
 ## 🕯️ Matches
 
 ## 🛏️ Blankets
+
+## 🩹 First Aid Kit
+
+## 🪪 Important Documents
 
 ## Nice to have:
 
