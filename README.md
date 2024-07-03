@@ -11,11 +11,20 @@ Guides and useful knowledge to stay safe in case of war.
   - [Food](#food)
   - [Water](#water)
 - 🧰 [Equipment](#-equipment)
+  - [Need to have:](#need-to-have)
   - 📻 [Battery Operated Radio](#-battery-operated-radio)
   - 🔋 [Batteries/Powerbanks](#-batteriespowerbanks)
   - 🧩 [Entertainment](#-entertainment)
+  - 🔥 [Gas Burner](#-gas-burner)
+  - 🕯️ [Matches](#%EF%B8%8F-matches)
+  - 🛏️ [Blankets](#%EF%B8%8F-blankets)
+  - [Nice to have:](#nice-to-have)
+  - 😷 [Gas Mask](#-gas-mask)
+  - 🔌 [Generator](#-generator)
+  - 🍃 [Air Filtering System](#-air-filtering-system)
 - 📕 [Handbooks](#-handbooks)
-  - [SAS Survival Handbook](#1-sas-survival-handbook)
+  - [#1 SAS Survival Handbook](#1-sas-survival-handbook)
+  - [#2 How To Stay Alive](#2-how-to-stay-alive)
 
 # Introduction
 On June 15th, the Danish Emergency Management Agency (*Beredskabsstyrelsen*) published "Forberedt på kriser"[^1] (*Prepared for crises*), which gives recommendations on how to survive 3 days in case of a larger crisis or disaster.
@@ -44,7 +53,14 @@ Your family or close ones.
 Assuming the food is stored correctly:
 - Canned food (1-2 years)
 - Rations (5-30 years)
-- Honey (forever)
+- Powdered Food (4-12 months)
+- Dried Pasta (2-3 years)
+- Oils (2-5 years)
+- Baking Ingredients:
+  - Flour (3-12 months) 
+  - Honey (forever)
+  - Sugar (2 years)
+  - Vinegar (2-3 years)
 - Biscuits/Crackers (6-9 months)
 - Spices (2-4 years)
 - Nuts (6-12 months)
@@ -56,6 +72,9 @@ Water needs to be stored correctly.
 In the event of an atomic or chemical bomb, the drinking water from the faucet won't be reliable, as it would be contaminated, and the negative effects would pose a higher risk if consumed.
 
 # 🧰 Equipment
+You need to assume that you can't rely on electricity, as it would be one of the key targeted infrastructures.
+
+## Need to have:
 - ## 📻 Battery Operated Radio
 <a href="https://www.biltema.dk/kontor---teknik/lyd/radio/nodradio-2000043994?gad_source=1"><img src="/img/Radio.jpg" alt="Battery Operated Radio" width="250"></a>
 
@@ -71,14 +90,35 @@ To keep you from going insane or to take your mind off the bad things.
 - Drawing
 - Puzzles
 
+## 🔥 Gas Burner
+
+## 🕯️ Matches
+
+## 🛏️ Blankets
+
+## Nice to have:
+
+## 😷 Gas Mask
+
+## 🔌 Generator
+
+## 🍃 Air Filtering System
+
 # 📕 Handbooks
 ## 1# SAS Survival Handbook
 <img src="/img/SasSurvivalHandbook.jpg" width="250">
 
 <sup>Psst[^2]</sup>
 
-## 2# 
+This book has detailed guides on how to survive in many different scenarios.
 
+## 2# How To Stay Alive
+<img src="/img/HowToStayAlive.jpg" width="250">
+
+<sup>Psst[^3]</sup>
+
+This book has a more basic guide on how to survive in many different scenarios.
 
 [^1]: [Forberedt på kriser](https://www.brs.dk/da/forberedt/)
 [^2]: [SAS Survival Handbook](https://annas-archive.gs/md5/073a3d2550a0027a48b8125fc93d6908)
+[^3]: [How To Stay Alive](https://annas-archive.gs/md5/d6bf3a37d03464f58e42562bc29f092a)
