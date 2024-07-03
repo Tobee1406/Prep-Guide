@@ -83,7 +83,7 @@ In the event of an atomic or chemical bomb, the drinking water from the faucet w
 You need to assume that you can't rely on electricity, as it would be one of the key targeted infrastructures.
 
 ## Need to have:
-- ## 📻 Battery Operated Radio
+## 📻 Battery Operated Radio
 <a href="https://www.biltema.dk/kontor---teknik/lyd/radio/nodradio-2000043994?gad_source=1"><img src="/img/Radio.jpg" alt="Battery Operated Radio" width="250"></a>
 
 Biltema has a combined radio [Link](https://www.biltema.dk/kontor---teknik/lyd/radio/nodradio-2000043994?gad_source=1)
