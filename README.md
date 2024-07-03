@@ -25,6 +25,7 @@ Guides and useful knowledge to stay safe in case of war.
 - 📕 [Handbooks](#-handbooks)
   - [#1 SAS Survival Handbook](#1-sas-survival-handbook)
   - [#2 How To Stay Alive](#2-how-to-stay-alive)
+- [Websites](#websites)
 
 # Introduction
 On June 15th, the Danish Emergency Management Agency (*Beredskabsstyrelsen*) published "Forberedt på kriser"[^1] (*Prepared for crises*), which gives recommendations on how to survive 3 days in case of a larger crisis or disaster.
@@ -118,6 +119,12 @@ This book has detailed guides on how to survive in many different scenarios.
 <sup>Psst[^3]</sup>
 
 This book has a more basic guide on how to survive in many different scenarios.
+
+# Websites
+## NUKEMAP
+<img src="/img/Nukemap.png" width="250">
+
+[Link](https://nuclearsecrecy.com/nukemap/)
 
 [^1]: [Forberedt på kriser](https://www.brs.dk/da/forberedt/)
 [^2]: [SAS Survival Handbook](https://annas-archive.gs/md5/073a3d2550a0027a48b8125fc93d6908)
